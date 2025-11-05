@@ -34,7 +34,7 @@ class EducationView extends GetView {
                   'Irfan Romadhon Widodo',
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                 ),
-                accountEmail: const Text('Mahasiswa Informatika UNsoed'),
+                accountEmail: const Text('Mahasiswa Informatika Unsoed'),
               ),
 
               _buildDrawerItem(
