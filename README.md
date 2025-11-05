@@ -2,6 +2,7 @@
 ### Universitas Jenderal Soedirman
 
 ---
+
 # 🧩 Aplikasi Portofolio Pribadi
 
 Proyek ini adalah aplikasi **Portofolio Pribadi** berbasis Flutter yang menampilkan profil, pendidikan, keterampilan, proyek, dan kontak.  
@@ -10,31 +11,34 @@ Struktur folder aplikasi diatur menggunakan **GetX Architecture**, agar modular 
 ---
 
 ## 📁 Struktur Folder
-📁 lib/
+
+```plaintext
+lib/
 ├── main.dart
 ├── app/
-│ ├── routes/
-│ │ └── app_pages.dart
-│ ├── modules/
-│ │ ├── contact/
-│ │ │ ├── contact_binding.dart
-│ │ │ └── contact_view.dart
-│ │ ├── education/
-│ │ │ ├── education_binding.dart
-│ │ │ └── education_view.dart
-│ │ ├── home/
-│ │ │ ├── home_binding.dart
-│ │ │ └── home_view.dart
-│ │ ├── projects/
-│ │ │ ├── projects_binding.dart
-│ │ │ └── projects_view.dart
-│ │ └── skills/
-│ │ ├── skills_binding.dart
-│ │ └── skills_view.dart
-│ └── utils/
-│ └── app_colors.dart
+│   ├── routes/
+│   │   └── app_pages.dart
+│   ├── modules/
+│   │   ├── contact/
+│   │   │   ├── contact_binding.dart
+│   │   │   └── contact_view.dart
+│   │   ├── education/
+│   │   │   ├── education_binding.dart
+│   │   │   └── education_view.dart
+│   │   ├── home/
+│   │   │   ├── home_binding.dart
+│   │   │   └── home_view.dart
+│   │   ├── projects/
+│   │   │   ├── projects_binding.dart
+│   │   │   └── projects_view.dart
+│   │   └── skills/
+│   │       ├── skills_binding.dart
+│   │       └── skills_view.dart
+│   └── utils/
+│       └── app_colors.dart
 └── widgets/
-└── custom_card.dart
+    └── custom_card.dart
+
 
 
 ---
