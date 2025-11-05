@@ -13,7 +13,7 @@ Struktur folder aplikasi diatur menggunakan **GetX Architecture**, agar modular 
 ## 📁 Struktur Folder
 
 ```plaintext
-lib/
+📁 lib/
 ├── main.dart
 ├── app/
 │   ├── routes/
@@ -38,8 +38,7 @@ lib/
 │       └── app_colors.dart
 └── widgets/
     └── custom_card.dart
-
-
+```
 
 ---
 
@@ -70,14 +69,6 @@ lib/
 - **Flutter**  
 - **Dart**  
 - **GetX (State Management & Routing)**  
-
----
-
-## ✍️ Pengembang
-
-**Irfan Romadhon Widodo**  
-Universitas Jenderal Soedirman  
-📧 Email: *[tambahkan_email_kamu_di_sini]*
 
 ---
 
